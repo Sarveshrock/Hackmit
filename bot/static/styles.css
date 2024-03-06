@@ -1,0 +1,24 @@
+/* styles.css */
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#chat-window {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+#output {
+    margin-bottom: 10px;
+}
+
+#input {
+    width: calc(100% - 60px);
+    margin-right: 10px;
+}
+
+button {
+    width: 50px;
+}
